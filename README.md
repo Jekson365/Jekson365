@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-My names is Jeko.<br>I am web developer.<br>currently I am working as a Javascript developer at Georgian Company.
+My names is Jeko.<br>I am web developer.<br>currently
 
 
 ## 🌐 Socials:
