@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-My names is Jeko.<br>I am web developer.<br>currently
+My names is Jeko.<br>I am web developer.<br>
 
 
 ## 🌐 Socials:
